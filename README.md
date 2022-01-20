@@ -1,2 +1,4 @@
-# C_plusplus
-Sample code 
+### C++
+introduction goes here
+sample programs
+learning concepts
