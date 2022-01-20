@@ -1,0 +1,2 @@
+D:\WORKING FOLDER\c++\Game_w_SDL\GameProgramsCpp\Debug\GameProgramsCpp.exe
+D:\WORKING FOLDER\c++\Game_w_SDL\GameProgramsCpp\Debug\GameProgramsCpp.pdb
