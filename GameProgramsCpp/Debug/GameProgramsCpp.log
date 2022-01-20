@@ -1,2 +1,4 @@
-﻿  ssdltest.cpp
-  GameProgramsCpp.vcxproj -> D:\WORKING FOLDER\c++\Game_w_SDL\GameProgramsCpp\Debug\GameProgramsCpp.exe
+﻿  blockgame.cpp
+C:\Users\cooln\OneDrive\Desktop\CppGames\GameProgramsCpp\blockgame.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cooln\OneDrive\Desktop\CppGames\GameProgramsCpp\blockgame.cpp(54,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameProgramsCpp.vcxproj -> C:\Users\cooln\OneDrive\Desktop\CppGames\GameProgramsCpp\Debug\GameProgramsCpp.exe

@@ -92,13 +92,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\WORKING FOLDER\c++\Game_w_SDL\external\SSDL\include;D:\WORKING FOLDER\c++\Game_w_SDL\external\SDL2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\external\SSDL\include;..\external\SDL2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>D:\WORKING FOLDER\c++\Game_w_SDL\external\SSDL\libvs\Win32;D:\WORKING FOLDER\c++\Game_w_SDL\external\SDL2\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\external\SSDL\libvs\Win32;..\external\SDL2\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>ssdl_$(Configuration).lib;sdl2.lib;SDL2main.lib;sdl2_image.lib;sdl2_ttf.lib;sdl2_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -153,7 +153,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="blockgame.cpp" />
+    <ClCompile Include="DrawFace.cpp" />
+    <ClCompile Include="Colors.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="ssdltest.cpp" />
+    <ClCompile Include="text.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
