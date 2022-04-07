@@ -11,7 +11,7 @@ This is a game about doging bombs and getting to the other side.
 
 ### __Gameplay Screenshots__
 Starting Game
-![Starting Game](https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png)
+![Starting Game]<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png" width="200" height="100">
 
 
 Game Over
