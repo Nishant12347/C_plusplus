@@ -10,9 +10,9 @@ This is a game about doging bombs and getting to the other side.
 - I liked the way the plane moves
 
 ### __Gameplay Screenshots__
-Starting Game
-![Starting Game]<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png" width="200" height="100">
+Starting Game<br>
+<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png" width="350" height="150">
 
 
-Game Over
-![Game Over](https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png)
+Game Over<br>
+<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png" width="350" height="150">
