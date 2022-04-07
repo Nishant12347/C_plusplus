@@ -11,8 +11,8 @@ This is a game about doging bombs and getting to the other side.
 
 ### __Gameplay Screenshots__
 Starting Game<br>
-<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png" width="350" height="150">
+<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png" width="400" height="290">
 
 
 Game Over<br>
-<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png" width="350" height="150">
+<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png" width="400" height="290"
