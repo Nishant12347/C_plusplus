@@ -1,13 +1,18 @@
-### C++
+# C++
 This is a game about doging bombs and getting to the other side.
 
-#### Requirements
+### __Requirements__
 - Adding sprites to my game
 - Making sprites collide
 - Making a game in c++
 
-#### Things *I liked*
+### __Things *I liked*__
 - I liked the way the plane moves
 
-#### Gameplay Screenshots
+### __Gameplay Screenshots__
+Starting Game
 ![Starting Game](https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%201.png)
+
+
+Game Over
+![Game Over](https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png)
