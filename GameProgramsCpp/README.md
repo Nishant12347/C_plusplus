@@ -15,4 +15,4 @@ Starting Game<br>
 
 
 Game Over<br>
-<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png" width="400" height="290"
+<img src="https://github.com/Nishant12347/C_plusplus/blob/main/GameProgramsCpp/Game%20screenshots/Screenshot%202.png" width="400" height="290">
